@@ -1,0 +1,9 @@
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\bin\Debug\polinom.exe.config
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\bin\Debug\polinom.exe
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\bin\Debug\polinom.pdb
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\obj\Debug\polinom.csprojResolveAssemblyReference.cache
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\obj\Debug\polinom.Form1.resources
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\obj\Debug\polinom.Properties.Resources.resources
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\obj\Debug\polinom.csproj.GenerateResource.Cache
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\obj\Debug\polinom.exe
+\\folders01.tversu.net\folders\tikhomirova.dg\documents\visual studio 2013\Projects\polinom\polinom\obj\Debug\polinom.pdb
