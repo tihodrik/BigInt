@@ -55,7 +55,7 @@ namespace polinom
             }
                       
             List<int> result = p.Last();
-            RemoveNulls(ref result);
+            result = Module(result);
 
             return result;
         }
@@ -262,42 +262,55 @@ namespace polinom
         private List<int> Module(List<int> item)
         {
             RemoveNulls(ref item);
+            RemoveNulls(ref m);
 
             bool minus = false;
-            
+
             if (item[item.Count - 1] < 0)
             {
                 minus = true;
                 item[item.Count - 1] *= (-1);
             }
-
-            // Приведение отрицательных чисел
+            List<int> result = Division(item);
             if (minus)
             {
-                if (Compare(item, m) <= 0)
-                {
-                    return Dif(m, item);
-                }
-                else
-                {
-                    while (Compare(item, m) > 0)
-                    {
-                        item = Dif(item, m);
-                    }
-                    item = Dif(m, item);
-                }
+                result = Dif(m, result);
             }
-            // Приведние положительных чисед
-            else
-            {
-                while (Compare(item, m) >= 0)
-                {
-                    item = Dif(item, m);
-                }
-            }
-            return item;
+            return result;
         }
+        private List<int> Division(List<int> item)
+        {
+            int count = m.Count;
+            List<int> result;
 
+            if (Compare(item, m) < 0)
+            {
+                result = item.GetRange(0, item.Count);
+                RemoveNulls(ref result);
+                return result;
+            }
+            result = item.GetRange(item.Count - count, count);
+
+            while (count < item.Count)
+            {                
+                if (Compare(result, m) < 0)
+                {
+                    count++;
+                    result.Insert(0, item[item.Count - count]);
+                    RemoveNulls(ref result);
+                }
+                while (Compare(result, m) >= 0)
+                {
+                    result = Dif(result, m);
+                }
+            }
+            if (Compare(result, m) >= 0)
+            {
+                result = Dif(result, m);
+            }
+            RemoveNulls(ref result);
+            return result;
+        }
         private int Compare(List<int> A, List<int> B)
         {
             int count = A.Count;
