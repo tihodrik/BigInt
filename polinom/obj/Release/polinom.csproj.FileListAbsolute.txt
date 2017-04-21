@@ -1,0 +1,8 @@
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Release\polinom.exe.config
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Release\polinom.exe
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Release\polinom.pdb
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Release\polinom.Form1.resources
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Release\polinom.Properties.Resources.resources
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Release\polinom.csproj.GenerateResource.Cache
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Release\polinom.exe
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Release\polinom.pdb

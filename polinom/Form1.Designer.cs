@@ -43,7 +43,7 @@
             // 
             this.button.Location = new System.Drawing.Point(12, 328);
             this.button.Name = "button";
-            this.button.Size = new System.Drawing.Size(315, 23);
+            this.button.Size = new System.Drawing.Size(396, 23);
             this.button.TabIndex = 1;
             this.button.Text = "Рассчитать";
             this.button.UseVisualStyleBackColor = true;
@@ -54,9 +54,8 @@
             this.K.Location = new System.Drawing.Point(12, 50);
             this.K.Multiline = true;
             this.K.Name = "K";
-            this.K.Size = new System.Drawing.Size(171, 272);
+            this.K.Size = new System.Drawing.Size(262, 272);
             this.K.TabIndex = 2;
-            this.K.Text = "11024711\r\n20128731\r\n20200000";
             // 
             // label1
             // 
@@ -69,16 +68,16 @@
             // 
             // R
             // 
-            this.R.Location = new System.Drawing.Point(12, 412);
+            this.R.Location = new System.Drawing.Point(15, 381);
             this.R.Name = "R";
             this.R.ReadOnly = true;
-            this.R.Size = new System.Drawing.Size(315, 20);
+            this.R.Size = new System.Drawing.Size(396, 20);
             this.R.TabIndex = 4;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 396);
+            this.label2.Location = new System.Drawing.Point(15, 365);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(59, 13);
             this.label2.TabIndex = 5;
@@ -86,16 +85,15 @@
             // 
             // B
             // 
-            this.B.Location = new System.Drawing.Point(201, 50);
+            this.B.Location = new System.Drawing.Point(294, 67);
             this.B.Name = "B";
             this.B.Size = new System.Drawing.Size(115, 20);
             this.B.TabIndex = 6;
-            this.B.Text = "100";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(198, 34);
+            this.label3.Location = new System.Drawing.Point(291, 51);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(79, 13);
             this.label3.TabIndex = 7;
@@ -103,16 +101,15 @@
             // 
             // Mod
             // 
-            this.Mod.Location = new System.Drawing.Point(201, 119);
+            this.Mod.Location = new System.Drawing.Point(294, 136);
             this.Mod.Name = "Mod";
             this.Mod.Size = new System.Drawing.Size(114, 20);
             this.Mod.TabIndex = 8;
-            this.Mod.Text = "3";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(198, 94);
+            this.label4.Location = new System.Drawing.Point(291, 111);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(88, 13);
             this.label4.TabIndex = 9;
@@ -122,7 +119,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(355, 453);
+            this.ClientSize = new System.Drawing.Size(423, 411);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.Mod);
             this.Controls.Add(this.label3);

@@ -16,3 +16,12 @@ C:\Users\Darya Tikhomirova\Documents\Visual Studio 2013\Projects\BigInt\polinom\
 C:\Users\Darya Tikhomirova\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Debug\polinom.csproj.GenerateResource.Cache
 C:\Users\Darya Tikhomirova\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Debug\polinom.exe
 C:\Users\Darya Tikhomirova\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Debug\polinom.pdb
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Debug\polinom.exe.config
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Debug\polinom.exe
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Debug\polinom.pdb
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Debug\polinom.exe
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\bin\Debug\polinom.pdb
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Debug\polinom.csprojResolveAssemblyReference.cache
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Debug\polinom.Form1.resources
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Debug\polinom.Properties.Resources.resources
+\\tversu.net\dfs-root\Users\Folders\tikhomirova.dg\Documents\Visual Studio 2013\Projects\BigInt\polinom\obj\Debug\polinom.csproj.GenerateResource.Cache
